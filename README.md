@@ -16,8 +16,3 @@ I'm an embedded engineer passionate about Embedded Linux, C, and C++ programming
 - **Tools:** GCC, Make, AutoTools, Git
 - **Microcontrollers & Platforms:** ARM Cortex, Raspberry Pi, NanoPi, STM32, TexasInstruments
 - **Protocols:** UART, SPI, I2C, RS-485, Modbus, BLE, Ethernet
-
-## 💼 Professional Experience
-- **Embedded Software Development:** Writing and optimizing firmware for various embedded platforms.
-- **System Integration:** Combining hardware and software components to create cohesive and functional systems.
-- **Debugging & Troubleshooting:** Utilizing tools like GDB to diagnose and fix issues in embedded systems.
